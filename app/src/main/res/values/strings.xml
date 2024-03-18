@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MvvmTask</string>
+    <string name="edit_contact">Edit Contact</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="save">Save</string>
+</resources>
